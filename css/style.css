@@ -229,6 +229,7 @@ ul {
 .info__list-title {
     margin-bottom: 5px;
     font-size: 18px;
+    line-height: 25px;
 }
 
 .info__list-text {
